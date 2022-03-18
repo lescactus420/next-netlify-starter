@@ -5,8 +5,8 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
-      <Head>
-    <meta http-equiv="refresh" content="...;url=https://pivko24.ru/design/logo.png" />
+      <Heaауауаd>
+    
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
